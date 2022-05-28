@@ -35,7 +35,7 @@ value = 1;
 },
 {
 name = licenseURL;
-value = "SIL Open Font License, Version 1.1: https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL_web; USWDS Modified Version: https://github.com/uswds/public-sans/blob/master/LICENSE.md";
+value = "https://github.com/uswds/public-sans/blob/master/LICENSE.md";
 },
 {
 name = license;
@@ -44,6 +44,10 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 {
 name = description;
 value = "Public Sans is based on Libre Franklin, which is a reinterpretation and expansion of the 1912 Morris Fuller Benton’s classic.";
+},
+{
+name = vendorID;
+value = WCYS;
 },
 {
 name = Axes;
@@ -57,8 +61,8 @@ Tag = wght;
 );
 date = "2020-07-15 15:46:26 +0000";
 designer = "The Public Sans project authors (U.S. Web Design System). Libre Franklin designed by Pablo Impallari and Rodrigo Fuenzalida.";
-designerURL = "https://designsystem.digital.gov and http://www.impallari.com";
-familyName = "Public Sans";
+designerURL = "https://public-sans.digital.gov";
+familyName = "AST Public Sans";
 featurePrefixes = (
 {
 automatic = 1;
@@ -38562,6 +38566,8 @@ fraction = 100;
 };
 };
 };
+manufacturer = "WCYS & Co.";
+manufacturerURL = "https://wcys.co";
 unitsPerEm = 2000;
 userData = {
 GSDimensionPlugin.Dimensions = {
